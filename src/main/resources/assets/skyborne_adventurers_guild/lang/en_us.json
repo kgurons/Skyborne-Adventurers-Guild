@@ -1,0 +1,13 @@
+{
+  "itemGroup.skyborne_adventurers_guild": "Example Mod Tab",
+  "block.skyborne_adventurers_guild.example_block": "Example Block",
+  "item.skyborne_adventurers_guild.example_item": "Example Item",
+
+  "skyborne_adventurers_guild.configuration.title": "Skyborne Adventurers Guild Configs",
+  "skyborne_adventurers_guild.configuration.section.skyborne_adventurers_guild.common.toml": "Skyborne Adventurers Guild Configs",
+  "skyborne_adventurers_guild.configuration.section.skyborne_adventurers_guild.common.toml.title": "Skyborne Adventurers Guild Configs",
+  "skyborne_adventurers_guild.configuration.items": "Item List",
+  "skyborne_adventurers_guild.configuration.logDirtBlock": "Log Dirt Block",
+  "skyborne_adventurers_guild.configuration.magicNumberIntroduction": "Magic Number Text",
+  "skyborne_adventurers_guild.configuration.magicNumber": "Magic Number"
+}
